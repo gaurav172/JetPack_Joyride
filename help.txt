@@ -1,0 +1,8 @@
+Game contains all the features required in the assignment including some bonuses.
+How to play the Game.
+left,right,up arrow keys to move left,right,up.
+'A' to throw water Baloons.
+water baloon can kill Fire Beams but not FireLines(slanting Lines).
+Player has 3 lives Initially, If he uses all of them ,game gets over and window will quit.
+Shield and Extra Life are Projectile Bonuses player may get.
+Player's score would be incremented on coin Collection.There are two types of Coins. Coin2 has double value than Coin1.
